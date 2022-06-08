@@ -1,0 +1,27 @@
+.hero {
+  height: 619px;
+  border: 1px solid black;
+  width: 100%;
+  text-align: center;
+  background-image: url("/asset/images/hero-img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 24px;
+}
+
+.hero-description {
+  text-align: center;
+  font-size: 58px;
+  width: 939px;
+  /* height: 180px; */
+  margin: auto;
+  font-family: "Poppins", sans-serif;
+  font-size: 700;
+  margin-bottom: 20px;
+  letter-spacing: 0.2px;
+  border: 1px solid black;
+}
