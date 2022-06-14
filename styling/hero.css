@@ -1,6 +1,6 @@
 .hero {
   height: 619px;
-  border: 1px solid black;
+
   width: 100%;
   text-align: center;
   background-image: url("/asset/images/hero-img.png");
@@ -21,7 +21,6 @@
   font-size: 700;
   margin-bottom: 20px;
   letter-spacing: 0.2px;
-  border: 1px solid black;
 }
 
 .hero-button button {

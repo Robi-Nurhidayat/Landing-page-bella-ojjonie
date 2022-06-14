@@ -1,0 +1,50 @@
+.create-account {
+  height: 806.99px;
+  margin-top: 30px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.img-smartphone-create-account {
+  height: 525px;
+  width: 302px;
+  position: relative;
+}
+
+.img-smartphone-create-account .img-account {
+  position: absolute;
+  top: -180px;
+}
+
+.create-account-title {
+  color: #fa4a0c;
+  line-height: 36px;
+  letter-spacing: 0.1px;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.create-account-text {
+  width: 561px;
+  line-height: 57px;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  color: #252b42;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.create-account-email-text {
+  width: 467px;
+  height: 76px;
+  line-height: 38px;
+  font-size: 24px;
+  letter-spacing: 0.2px;
+  color: #737373;
+  margin-bottom: 0;
+}
