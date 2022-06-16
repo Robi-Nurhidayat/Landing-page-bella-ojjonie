@@ -1,0 +1,44 @@
+.explore-varieties {
+  width: 100%;
+  padding: 80px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.content {
+  width: 80%;
+  height: 506.99px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.content-text {
+  width: 568px;
+  height: 280px;
+}
+
+.content-text-title {
+  color: #fa4a0c;
+  margin-bottom: 0;
+}
+
+.content-text h2 {
+  font-size: 40px;
+  text-align: left;
+  font-weight: 700;
+  color: #252b42;
+  letter-spacing: 0.2px;
+  line-height: 57px;
+  margin-bottom: 0;
+}
+
+.content-text h4 {
+  color: #737373;
+  font-size: 24px;
+  letter-spacing: 0.2px;
+  line-height: 38px;
+  text-align: left;
+  font-weight: 500;
+  margin-bottom: 0;
+}
